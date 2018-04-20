@@ -19,7 +19,8 @@ git clone https://github.com/yberkut/business-card-vue-ts.git
 # make it yours
 mv business-card-vue-ts <YOUR PROJECT NAME>
 cd <YOUR PROJECT NAME>
-rm -rf .git && npm init 
+rm -rf .git
+npm init 
 
 # Install dependencies
 npm install
