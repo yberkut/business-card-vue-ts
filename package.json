@@ -9,6 +9,12 @@
     "lint": "vue-cli-service lint",
     "inspect": "vue-cli-service inspect"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yberkut/business-card-vue-ts.git"
+  }
+  "author": "Iaroslav Berkut",
+  "license": "MIT"
   "dependencies": {
     "vue": "^2.5.16",
     "vue-class-component": "^6.2.0",
@@ -75,7 +81,5 @@
   },
   "directories": {
     "test": "tests"
-  },
-  "author": "Iaroslav Berkut",
-  "license": "MIT"
+  }
 }
