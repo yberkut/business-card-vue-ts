@@ -14,7 +14,7 @@ See [Vuex and Typescript](https://codeburst.io/vuex-and-typescript-3427ba78cfa8)
 ## Getting Started
 ```sh
 # clone it
-git clone ...
+git clone https://github.com/yberkut/business-card-vue-ts.git
 cd business-card-vue-ts
 
 # Install dependencies
