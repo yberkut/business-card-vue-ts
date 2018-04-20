@@ -15,7 +15,11 @@ See [Vuex and Typescript](https://codeburst.io/vuex-and-typescript-3427ba78cfa8)
 ```sh
 # clone it
 git clone https://github.com/yberkut/business-card-vue-ts.git
-cd business-card-vue-ts
+
+# make it yours
+mv business-card-vue-ts <YOUR PROJECT NAME>
+cd <YOUR PROJECT NAME>
+rm -rf .git && npm init 
 
 # Install dependencies
 npm install
