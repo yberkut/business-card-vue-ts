@@ -16,7 +16,7 @@
   const namespace: string = 'profile';
 
   @Component
-  export default class QrCode extends Vue implements Styled {
+  export default class Social extends Vue implements Styled {
     @State('profile')
     private profile: ProfileState;
 
