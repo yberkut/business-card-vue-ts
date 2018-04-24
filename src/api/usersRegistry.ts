@@ -13,7 +13,7 @@ const users = [
       { title: 'EMAIL', value: 'iaroslav.berkut@gmail.com' },
       { title: 'PHONE', value: '+380 (97) 694 16 80' }
     ],
-    qrCode: `${imagesUrl}qr%403x.png?alt=media&token=97965663-b878-4df6-bb8a-af8255e4e16c`,
+    qrCode: `${imagesUrl}qr%403x.png?alt=media&token=cf7e229b-c29a-4c3d-b352-c3d3cb94939a`,
     social: [
       { name: 'facebook', icon: 'fab fa-facebook', url: '' },
       { name: 'instagram', icon: 'fab fa-instagram', url: '' },
